@@ -1,0 +1,19 @@
+.loginbox{
+    /*margin-left: 33% !important;
+    margin-right:  33% !important;*/
+    background-color: darkkhaki !important;
+    padding: 20px;
+    border: solid 1px red ;
+    margin-top: 250px;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+.MTop10{
+    margin-top: 10px !important;
+}
+
+.MLeft5{
+    margin-left: 5px !important; 
+}
